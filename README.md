@@ -32,10 +32,8 @@ Bem-vindo ao meu espaço de aprendizado e experimentação com **React Native**!
 ## 🛠️ Tecnologias e Ferramentas
 
 <img src="https://skillicons.dev/icons?i=nodejs,javascript,ts,react,git" />
-- **Android Studio**
+Android Studio
 ---
-
-## 📌 Notas
 
 - Alguns projetos podem estar incompletos ou em progresso.  
 - Toda ajuda é bem-vinda para evoluir nessa jornada! 🚀  
